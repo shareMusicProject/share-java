@@ -8,7 +8,6 @@
       <module fileurl="file://$PROJECT_DIR$/share-mybatis/share-mybatis.iml" filepath="$PROJECT_DIR$/share-mybatis/share-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/share-service/share-service.iml" filepath="$PROJECT_DIR$/share-service/share-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/share-web/share-web.iml" filepath="$PROJECT_DIR$/share-web/share-web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/share-web/share-web.iml" filepath="$PROJECT_DIR$/share-web/share-web.iml" />
     </modules>
   </component>
 </project>
