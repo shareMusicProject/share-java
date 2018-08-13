@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/backend.iml" filepath="$PROJECT_DIR$/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/share-common/share-common.iml" filepath="$PROJECT_DIR$/share-common/share-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/share-dao/share-dao.iml" filepath="$PROJECT_DIR$/share-dao/share-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/share-mybatis/share-mybatis.iml" filepath="$PROJECT_DIR$/share-mybatis/share-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/share-service/share-service.iml" filepath="$PROJECT_DIR$/share-service/share-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/share-web/share-web.iml" filepath="$PROJECT_DIR$/share-web/share-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/share-web/share-web.iml" filepath="$PROJECT_DIR$/share-web/share-web.iml" />
+    </modules>
+  </component>
+</project>
